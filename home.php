@@ -16,7 +16,7 @@
             <div class="name"><?=SITE_NAME?></div>
         </article>
         <article class="slogan">
-            <span><?= SITE_LANG == 'ar' ? 'أقوى متجر تطبيقات تابع لجهة خارجية.' : 'Most powerful 3rd party app store.'?></span>
+            <span><?= SITE_LANG == 'ar' ? 'اهلا وسهلا بكم في Alakbar Store' : 'Most powerful 3rd party app store.'?></span>
         </article>
         <article class="shift"></article>
     </section>
